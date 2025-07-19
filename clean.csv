@@ -1,0 +1,485 @@
+OrderID,OrderDate,CustomerID,CustomerName,Country,Product,Category,Quantity,UnitPrice,TotalPrice,PaymentMethod
+ORD00001,2024-05-10,CUST2017,Customer_257,Canada,Sneakers,Clothing,4.0,1364.83,5459.32,PayPal
+ORD00002,2024-05-15,CUST1042,Customer_44,Germany,Monitor,Electronics,9.0,924.6,8321.4,Credit Card
+ORD00004,2023-07-23,CUST1882,Customer_80,Germany,T-shirt,Clothing,10.0,357.59,3575.8999999999996,Bank Transfer
+ORD00006,2024-01-30,CUST3882,Customer_203,UAE,Tennis Racket,Sports,1.0,43.31,43.31,Credit Card
+ORD00007,2023-07-18,CUST4394,Customer_281,USA,Yoga Mat,Sports,6.0,836.56,5019.36,PayPal
+ORD00008,2023-11-20,CUST1977,Customer_235,UK,T-shirt,Clothing,3.0,977.73,2933.19,Bank Transfer
+ORD00009,2023-01-11,CUST1694,Customer_236,UK,Laptop,Electronics,9.0,306.95,2762.5499999999997,Cash on Delivery
+ORD00010,2023-12-12,CUST4584,Customer_256,UK,Toaster,Home & Kitchen,1.0,187.33,187.33,Credit Card
+ORD00011,2023-12-27,CUST6055,Customer_160,Germany,Children's Book,Books,8.0,992.03,7936.24,Bank Transfer
+ORD00012,2024-05-06,CUST6953,Customer_155,UAE,Fiction,Books,2.0,1219.63,2439.26,Bank Transfer
+ORD00013,2023-03-12,CUST6784,Customer_206,Germany,Chair,Home & Kitchen,2.0,1171.92,2343.84,PayPal
+ORD00014,2023-12-02,CUST9013,Customer_85,UAE,Lamp,Home & Kitchen,3.0,964.12,2892.36,Bank Transfer
+ORD00015,2024-05-29,CUST7075,Customer_81,UAE,Laptop,Electronics,10.0,213.88,2138.8,Bank Transfer
+ORD00016,2024-06-04,CUST2980,,USA,Science,Books,6.0,1450.51,8703.06,PayPal
+ORD00017,2023-05-08,CUST8128,Customer_169,Germany,Yoga Mat,Sports,9.0,431.0,3879.0,Cash on Delivery
+ORD00018,2024-06-12,CUST8835,Customer_292,Germany,,Home & Kitchen,10.0,1348.1,13481.0,Cash on Delivery
+ORD00019,2023-11-02,CUST9398,Customer_99,UK,Football,Sports,6.0,894.34,5366.04,Bank Transfer
+ORD00020,2024-04-09,CUST1217,Customer_86,UAE,Lamp,Home & Kitchen,7.0,876.56,6135.92,Credit Card
+ORD00021,2023-08-26,CUST7781,,India,Toaster,Home & Kitchen,3.0,45.33,135.99,Bank Transfer
+ORD00022,2023-07-23,CUST3152,Customer_61,Germany,Science,Books,6.0,50.37,302.21999999999997,Bank Transfer
+ORD00023,2023-11-26,CUST4688,Customer_259,Germany,Jacket,Clothing,4.0,90.66,362.64,Cash on Delivery
+ORD00024,2023-10-01,CUST9350,Customer_121,USA,Jacket,Clothing,9.0,459.83,4138.47,Credit Card
+ORD00025,2023-11-11,CUST5275,Customer_271,UAE,Tennis Racket,Sports,4.0,1092.23,4368.92,Credit Card
+ORD00026,2024-01-04,CUST2677,Customer_39,USA,Lamp,Home & Kitchen,10.0,491.94,4919.4,Cash on Delivery
+ORD00027,2023-03-26,CUST6150,Customer_129,USA,Laptop,Electronics,7.0,424.51,2971.5699999999997,Bank Transfer
+ORD00028,2023-01-17,CUST4629,Customer_65,UAE,Jeans,Clothing,1.0,852.57,852.57,Cash on Delivery
+ORD00029,2023-04-10,CUST7957,Customer_189,UK,Blender,Home & Kitchen,10.0,564.77,5647.7,Cash on Delivery
+ORD00030,2024-04-28,CUST6934,Customer_109,USA,Toaster,Home & Kitchen,3.0,911.37,2734.11,Credit Card
+ORD00031,2023-02-27,CUST8107,Customer_107,,Tennis Racket,Sports,6.0,1271.36,7628.16,Credit Card
+ORD00032,2024-06-03,CUST8901,Customer_82,UAE,Jacket,Clothing,9.0,156.92,1412.28,Cash on Delivery
+ORD00033,2024-04-13,CUST6906,Customer_294,UK,Chair,Home & Kitchen,2.0,1463.38,2926.76,Cash on Delivery
+ORD00034,2023-10-12,CUST5902,Customer_138,Canada,Sneakers,Clothing,3.0,15.69,47.07,Bank Transfer
+ORD00035,2023-08-14,CUST5367,Customer_39,Germany,Dumbbells,Sports,3.0,48.57,145.71,PayPal
+ORD00036,2023-09-23,CUST9693,Customer_205,UK,Sneakers,Clothing,9.0,85.52,769.68,Cash on Delivery
+ORD00037,2023-04-01,CUST5943,Customer_48,India,Yoga Mat,Sports,9.0,184.59,1661.31,PayPal
+ORD00038,2023-01-13,CUST3271,Customer_149,UAE,,Books,1.0,1185.05,1185.05,Bank Transfer
+ORD00039,2023-01-26,CUST3134,Customer_146,UK,Biography,Books,4.0,950.81,3803.24,PayPal
+ORD00040,2023-03-19,CUST6468,Customer_91,UK,Dumbbells,Sports,1.0,600.36,600.36,Credit Card
+ORD00041,2024-02-16,CUST6561,Customer_271,UK,Blender,Home & Kitchen,7.0,403.52,2824.64,Credit Card
+ORD00042,2024-04-25,CUST4830,Customer_138,Canada,Biography,Books,5.0,1186.87,5934.349999999999,Cash on Delivery
+ORD00043,2023-09-19,CUST4641,Customer_198,Germany,Sneakers,Clothing,7.0,1158.71,8110.97,Bank Transfer
+ORD00044,2023-12-12,CUST8248,Customer_287,India,Jacket,Clothing,10.0,423.48,4234.8,Cash on Delivery
+ORD00045,2023-12-18,CUST7015,Customer_68,Canada,Laptop,Electronics,3.0,30.52,91.56,Bank Transfer
+ORD00047,2023-04-08,CUST5713,Customer_139,UK,Chair,Home & Kitchen,2.0,1124.66,2249.32,PayPal
+ORD00048,2023-08-04,CUST5787,Customer_68,India,Monitor,Electronics,10.0,104.02,1040.2,Credit Card
+ORD00049,2024-04-09,CUST4410,Customer_2,UAE,Monitor,Electronics,6.0,1319.05,7914.299999999999,Credit Card
+ORD00050,2023-06-13,CUST5928,Customer_59,UAE,Football,Sports,9.0,706.99,6362.91,PayPal
+ORD00051,2023-08-23,CUST9975,Customer_158,UK,Smartphone,Electronics,3.0,1385.62,4156.86,Cash on Delivery
+ORD00052,2024-06-15,CUST1405,Customer_121,Canada,Sneakers,Clothing,1.0,406.12,406.12,Bank Transfer
+ORD00053,2024-04-14,CUST8845,Customer_263,India,Biography,Books,5.0,249.67,1248.35,PayPal
+ORD00054,2023-08-30,CUST7574,Customer_88,India,Science,Books,10.0,1226.76,12267.6,Credit Card
+ORD00055,2023-04-16,CUST5031,,Canada,Toaster,Home & Kitchen,1.0,926.27,926.27,Bank Transfer
+ORD00056,2023-03-19,CUST3449,Customer_74,Canada,Tennis Racket,Sports,4.0,538.96,2155.84,PayPal
+ORD00057,2023-07-24,CUST2762,Customer_259,India,Blender,Home & Kitchen,2.0,421.5,843.0,PayPal
+ORD00058,2023-07-29,CUST4545,Customer_65,UK,Science,Books,9.0,453.07,4077.63,Cash on Delivery
+ORD00059,2023-02-09,CUST2999,Customer_121,UAE,Fiction,Books,3.0,279.77,839.31,PayPal
+ORD00060,2023-07-29,CUST8643,Customer_77,UK,Yoga Mat,Sports,1.0,674.47,674.47,PayPal
+ORD00061,2023-06-20,CUST4177,Customer_18,UAE,Blender,Home & Kitchen,8.0,438.89,3511.12,PayPal
+ORD00062,2023-12-08,CUST7948,Customer_244,Canada,Headphones,Electronics,2.0,642.48,1284.96,Bank Transfer
+ORD00063,2023-07-27,CUST8223,Customer_238,Germany,Yoga Mat,Sports,9.0,794.27,7148.43,Bank Transfer
+ORD00064,2023-01-31,CUST8816,Customer_231,Germany,Jeans,Clothing,7.0,885.37,6197.59,Bank Transfer
+ORD00065,2024-03-15,CUST2982,Customer_257,Germany,Children's Book,Books,5.0,1089.35,5446.75,PayPal
+ORD00066,2024-03-07,CUST8173,Customer_52,Germany,Children's Book,Books,3.0,667.75,2003.25,PayPal
+ORD00067,2024-02-15,CUST2991,Customer_253,Canada,Dumbbells,Sports,10.0,122.59,1225.9,Cash on Delivery
+ORD00068,2023-03-24,CUST4859,Customer_79,India,Monitor,Electronics,8.0,1022.76,8182.08,Cash on Delivery
+ORD00069,2024-02-05,CUST1888,Customer_69,UAE,Blender,Home & Kitchen,6.0,953.76,5722.5599999999995,Cash on Delivery
+ORD00070,2023-07-01,CUST6542,Customer_76,Canada,Jacket,,5.0,38.78,193.9,Credit Card
+ORD00071,2024-05-24,CUST6930,Customer_140,UK,Toaster,Home & Kitchen,6.0,1171.46,7028.76,Credit Card
+ORD00072,2024-06-16,CUST6057,Customer_270,UAE,Children's Book,Books,10.0,484.68,4846.8,Cash on Delivery
+ORD00073,2024-04-07,CUST8166,Customer_100,UK,Jacket,Clothing,3.0,933.44,2800.32,Credit Card
+ORD00074,2023-10-08,CUST4572,Customer_8,Canada,Dumbbells,Sports,1.0,983.27,983.27,Bank Transfer
+ORD00075,2023-06-29,CUST6524,Customer_75,USA,Tennis Racket,Sports,10.0,589.76,5897.6,Credit Card
+ORD00076,2024-01-05,CUST3481,Customer_141,UK,Lamp,Home & Kitchen,3.0,689.83,2069.4900000000002,Bank Transfer
+ORD00077,2023-05-22,CUST6799,Customer_286,Canada,Tennis Racket,Sports,1.0,419.86,419.86,PayPal
+ORD00079,2024-04-03,CUST7003,Customer_285,India,Monitor,Electronics,2.0,1398.68,2797.36,Cash on Delivery
+ORD00080,2023-05-14,CUST9612,Customer_153,UK,Chair,Home & Kitchen,4.0,1352.44,5409.76,Bank Transfer
+ORD00081,2023-10-31,CUST7332,Customer_91,USA,Yoga Mat,Sports,4.0,571.04,2284.16,Credit Card
+ORD00082,2024-05-13,CUST1867,Customer_162,UK,Tennis Racket,Sports,1.0,357.47,357.47,Bank Transfer
+ORD00083,2023-09-29,CUST5172,Customer_11,Canada,Smartphone,Electronics,9.0,295.29,2657.61,Bank Transfer
+ORD00084,2023-03-04,CUST2784,Customer_40,Germany,Fiction,Books,10.0,1325.37,13253.699999999999,Cash on Delivery
+ORD00085,2023-10-24,CUST5884,Customer_298,Germany,Yoga Mat,Sports,5.0,1433.1,7165.5,Cash on Delivery
+ORD00086,2023-04-01,CUST5888,Customer_54,Canada,Headphones,Electronics,4.0,590.41,2361.64,Cash on Delivery
+ORD00087,2023-11-15,CUST7726,Customer_187,Germany,Sneakers,Clothing,3.0,291.07,873.21,PayPal
+ORD00088,2024-03-21,CUST9577,Customer_234,Germany,Yoga Mat,,6.0,1495.9,8975.400000000001,PayPal
+ORD00089,2023-08-20,CUST5891,Customer_39,Germany,Football,Sports,2.0,505.52,1011.04,Cash on Delivery
+ORD00090,2023-11-15,CUST3268,Customer_165,UAE,Chair,Home & Kitchen,1.0,1038.09,1038.09,PayPal
+ORD00091,2024-06-14,CUST9768,Customer_207,Canada,Children's Book,Books,7.0,293.69,2055.83,Credit Card
+ORD00092,2023-07-25,CUST8075,Customer_222,Canada,,Electronics,6.0,462.72,2776.32,Bank Transfer
+ORD00093,2024-06-12,CUST9842,Customer_183,USA,Smartphone,Electronics,1.0,222.3,222.3,Bank Transfer
+ORD00094,2023-11-28,CUST8438,Customer_188,UAE,Children's Book,Books,8.0,443.64,3549.12,Cash on Delivery
+ORD00095,2023-10-17,CUST1799,Customer_243,Canada,Fiction,Books,5.0,257.83,1289.1499999999999,Bank Transfer
+ORD00096,2023-05-26,CUST5646,Customer_271,India,Science,Books,5.0,1114.44,5572.200000000001,PayPal
+ORD00097,2024-06-16,CUST7070,Customer_44,USA,Jacket,Clothing,8.0,1405.36,11242.88,PayPal
+ORD00098,2024-05-19,CUST6368,Customer_110,India,Football,Sports,5.0,934.3,4671.5,PayPal
+ORD00099,2023-08-12,CUST6641,Customer_169,Germany,Headphones,Electronics,8.0,1217.78,9742.24,PayPal
+ORD00100,2023-02-20,CUST5521,Customer_271,USA,Yoga Mat,Sports,6.0,739.85,4439.1,Bank Transfer
+ORD00101,2024-05-25,CUST3614,Customer_117,USA,Football,Sports,9.0,1489.6,13406.4,Bank Transfer
+ORD00102,2024-01-04,CUST1171,Customer_69,Germany,Dumbbells,Sports,3.0,1144.03,3432.09,Cash on Delivery
+ORD00103,2024-04-12,CUST5357,Customer_239,UK,Toaster,Home & Kitchen,9.0,888.96,8000.64,Credit Card
+ORD00104,2024-05-01,CUST4774,Customer_143,UK,Children's Book,Books,3.0,863.16,2589.48,PayPal
+ORD00105,2023-02-14,CUST6949,Customer_50,Germany,Football,Sports,9.0,605.98,5453.82,Cash on Delivery
+ORD00106,2023-05-16,CUST3497,Customer_46,UK,Blender,Home & Kitchen,3.0,450.55,1351.65,Bank Transfer
+ORD00107,2023-08-23,CUST2264,Customer_48,UK,Biography,Books,7.0,723.54,5064.78,PayPal
+ORD00108,2024-04-22,CUST3892,,USA,Football,Sports,10.0,151.78,1517.8,Credit Card
+ORD00110,2024-01-17,CUST1202,Customer_189,India,Fiction,Books,10.0,782.38,7823.8,Cash on Delivery
+ORD00111,2023-04-08,CUST6196,Customer_42,UK,Chair,Home & Kitchen,10.0,674.94,6749.400000000001,Credit Card
+ORD00112,2024-03-13,CUST2196,Customer_53,Germany,Fiction,Books,3.0,887.1,2661.3,PayPal
+ORD00113,2023-09-08,CUST1430,Customer_185,USA,Tennis Racket,Sports,6.0,445.19,2671.14,Credit Card
+ORD00114,2023-01-20,CUST6569,Customer_234,UAE,Jeans,Clothing,2.0,1475.74,2951.48,Bank Transfer
+ORD00115,2023-01-14,CUST9010,Customer_105,Canada,Sneakers,Clothing,9.0,1049.46,9445.14,PayPal
+ORD00116,2024-06-14,CUST2651,Customer_191,UAE,Jacket,Clothing,10.0,829.7,8297.0,Bank Transfer
+ORD00117,2023-02-17,CUST4575,Customer_119,UAE,Blender,Home & Kitchen,2.0,706.82,1413.64,Credit Card
+ORD00118,2023-04-12,CUST8997,Customer_58,India,Laptop,Electronics,5.0,461.8,2309.0,Cash on Delivery
+ORD00119,2023-02-07,CUST8953,Customer_255,UAE,Blender,Home & Kitchen,9.0,1274.42,11469.78,Bank Transfer
+ORD00120,2023-12-18,CUST9316,Customer_165,UAE,Headphones,Electronics,1.0,286.35,286.35,Cash on Delivery
+ORD00121,2023-01-25,CUST8428,Customer_140,UK,Laptop,Electronics,2.0,300.39,600.78,Credit Card
+ORD00122,2023-11-02,CUST3757,Customer_30,Canada,Chair,Home & Kitchen,5.0,751.84,3759.2000000000003,Bank Transfer
+ORD00123,2023-12-24,CUST5720,Customer_241,Germany,Lamp,Home & Kitchen,7.0,525.83,3680.8100000000004,PayPal
+ORD00124,2023-05-04,CUST5829,Customer_100,Germany,Laptop,Electronics,6.0,1036.33,6217.98,PayPal
+ORD00125,2023-12-04,CUST4104,Customer_190,USA,Dumbbells,Sports,8.0,1402.92,11223.36,Cash on Delivery
+ORD00126,2024-05-13,CUST1473,Customer_37,UK,Fiction,Books,9.0,1248.95,11240.550000000001,PayPal
+ORD00127,2023-04-26,CUST9704,Customer_99,Germany,Biography,Books,9.0,571.83,5146.47,Bank Transfer
+ORD00128,2024-01-24,CUST9348,Customer_79,UAE,,Clothing,8.0,34.78,278.24,Credit Card
+ORD00129,2024-05-13,CUST4714,Customer_231,UAE,Smartphone,Electronics,9.0,1141.83,10276.47,Bank Transfer
+ORD00130,2023-07-03,CUST2084,Customer_288,Canada,Yoga Mat,Sports,8.0,978.03,7824.24,Bank Transfer
+ORD00131,2024-05-28,CUST9199,Customer_89,India,Jacket,Clothing,6.0,662.61,3975.66,Cash on Delivery
+ORD00132,2024-04-19,CUST6074,Customer_74,Germany,Children's Book,Books,1.0,1308.45,1308.45,Credit Card
+ORD00133,2023-05-07,CUST5446,Customer_245,USA,Chair,Home & Kitchen,5.0,897.24,4486.2,Credit Card
+ORD00134,2024-02-26,CUST9429,Customer_82,UAE,Laptop,Electronics,8.0,1492.82,11942.56,Bank Transfer
+ORD00135,2023-02-16,CUST7438,Customer_114,Canada,Science,Books,6.0,1147.23,6883.38,Cash on Delivery
+ORD00136,2023-02-05,CUST5635,Customer_151,Canada,Fiction,Books,3.0,1095.28,3285.84,PayPal
+ORD00137,2024-05-12,CUST5777,Customer_195,Germany,Children's Book,Books,2.0,115.97,231.94,Credit Card
+ORD00138,2023-09-25,CUST1271,Customer_279,India,Lamp,Home & Kitchen,9.0,894.84,8053.56,Bank Transfer
+ORD00139,2024-06-01,CUST2620,Customer_253,UAE,Monitor,Electronics,1.0,1180.44,1180.44,Cash on Delivery
+ORD00140,2023-10-30,CUST1603,Customer_133,UK,Jacket,Clothing,5.0,109.76,548.8000000000001,Cash on Delivery
+ORD00142,2024-02-19,CUST3797,Customer_281,UAE,Monitor,Electronics,7.0,564.35,3950.4500000000003,Cash on Delivery
+ORD00143,2024-03-13,CUST5499,Customer_114,USA,Yoga Mat,Sports,3.0,1064.72,3194.16,Cash on Delivery
+ORD00144,2023-01-09,CUST7566,Customer_126,Canada,Sneakers,Clothing,1.0,911.56,911.56,Cash on Delivery
+ORD00145,2024-01-17,CUST9123,Customer_263,UK,Tennis Racket,Sports,4.0,1434.96,5739.84,Bank Transfer
+ORD00146,2024-01-22,CUST1489,Customer_66,UAE,Blender,Home & Kitchen,3.0,677.02,2031.06,Bank Transfer
+ORD00147,2023-01-20,CUST6538,Customer_216,UAE,Biography,Books,5.0,878.06,4390.299999999999,Bank Transfer
+ORD00148,2023-09-19,CUST4164,Customer_127,Germany,Lamp,Home & Kitchen,10.0,1424.97,14249.7,Cash on Delivery
+ORD00149,2023-09-01,CUST5482,Customer_39,UAE,Jeans,Clothing,5.0,808.37,4041.85,Cash on Delivery
+ORD00150,2023-06-23,CUST4528,Customer_226,Canada,Yoga Mat,Sports,4.0,438.87,1755.48,Bank Transfer
+ORD00151,2023-06-10,CUST9066,Customer_158,Canada,Smartphone,Electronics,4.0,276.26,1105.04,Bank Transfer
+ORD00152,2023-08-12,CUST8862,Customer_250,Germany,Chair,Home & Kitchen,8.0,825.33,6602.64,Bank Transfer
+ORD00153,2023-11-19,CUST5006,Customer_284,India,Blender,Home & Kitchen,6.0,900.08,5400.4800000000005,Bank Transfer
+ORD00154,2023-02-08,CUST3831,Customer_160,UK,Dumbbells,Sports,7.0,1381.55,9670.85,Credit Card
+ORD00155,2024-04-21,CUST3930,Customer_170,Canada,Fiction,Books,10.0,564.82,5648.200000000001,PayPal
+ORD00156,2023-12-18,CUST5308,Customer_197,India,Smartphone,Electronics,1.0,159.28,159.28,Bank Transfer
+ORD00157,2023-02-26,CUST1433,Customer_111,UK,Tennis Racket,Sports,4.0,1148.61,4594.44,Credit Card
+ORD00158,2024-05-30,CUST8307,Customer_84,USA,T-shirt,Clothing,1.0,692.82,692.82,Credit Card
+ORD00159,2023-02-17,CUST3913,Customer_254,Canada,Jeans,Clothing,10.0,1183.36,11833.599999999999,PayPal
+ORD00162,2023-11-19,CUST9393,Customer_145,USA,Lamp,Home & Kitchen,10.0,243.56,2435.6,PayPal
+ORD00163,2024-05-11,CUST1898,Customer_293,USA,Blender,Home & Kitchen,9.0,335.95,3023.5499999999997,Credit Card
+ORD00164,2024-05-17,CUST1895,Customer_168,USA,T-shirt,Clothing,10.0,793.8,7938.0,Bank Transfer
+ORD00165,2024-02-13,CUST2865,Customer_2,UAE,Children's Book,Books,7.0,953.91,6677.37,Cash on Delivery
+ORD00166,2024-04-28,CUST9978,Customer_47,Germany,Blender,Home & Kitchen,9.0,87.08,783.72,Credit Card
+ORD00167,2023-05-21,CUST6890,Customer_122,USA,Biography,Books,8.0,883.3,7066.4,Bank Transfer
+ORD00169,2023-04-04,CUST7786,Customer_47,Germany,Jeans,Clothing,9.0,138.07,1242.6299999999999,Bank Transfer
+ORD00170,2024-01-01,CUST9613,Customer_299,USA,Children's Book,Books,5.0,1151.99,5759.95,Bank Transfer
+ORD00171,2024-04-03,CUST4169,Customer_132,USA,Blender,Home & Kitchen,5.0,1230.08,6150.4,PayPal
+ORD00172,2023-08-21,CUST4549,Customer_263,USA,Yoga Mat,Sports,5.0,398.89,1994.4499999999998,Cash on Delivery
+ORD00173,2023-06-18,CUST3009,Customer_42,Canada,Jeans,Clothing,8.0,373.53,2988.24,Bank Transfer
+ORD00174,2023-05-10,CUST3982,,,Dumbbells,Sports,1.0,1257.07,1257.07,PayPal
+ORD00175,2023-12-18,CUST4076,Customer_268,UAE,Football,Sports,4.0,1412.35,5649.4,PayPal
+ORD00176,2024-04-14,CUST5156,Customer_277,UK,Children's Book,Books,3.0,57.48,172.44,Cash on Delivery
+ORD00177,2024-01-17,CUST3352,Customer_12,Canada,T-shirt,Clothing,5.0,831.35,4156.75,PayPal
+ORD00178,2023-04-07,CUST9768,Customer_35,Canada,Blender,Home & Kitchen,7.0,1280.64,8964.480000000001,Credit Card
+ORD00179,2023-10-23,CUST3333,Customer_9,Canada,Monitor,Electronics,4.0,223.57,894.28,Credit Card
+ORD00180,2024-01-14,CUST9654,Customer_219,UAE,Lamp,Home & Kitchen,1.0,336.11,336.11,Cash on Delivery
+ORD00181,2023-09-27,CUST1163,Customer_46,India,Laptop,Electronics,8.0,1061.58,8492.64,Credit Card
+ORD00182,2023-08-06,CUST7943,Customer_70,USA,T-shirt,Clothing,2.0,1291.33,2582.66,Bank Transfer
+ORD00183,2023-06-20,CUST7949,Customer_266,USA,Laptop,Electronics,5.0,881.42,4407.099999999999,Bank Transfer
+ORD00184,2023-02-17,CUST7076,Customer_164,India,T-shirt,Clothing,4.0,1065.73,4262.92,Credit Card
+ORD00185,2024-02-23,CUST3643,Customer_91,UK,Science,Books,2.0,126.06,252.12,Cash on Delivery
+ORD00186,2023-09-08,CUST2258,Customer_135,India,Jacket,Clothing,10.0,631.99,6319.9,PayPal
+ORD00187,2023-02-04,CUST7583,Customer_166,UK,Monitor,Electronics,8.0,1289.77,10318.16,Credit Card
+ORD00188,2024-04-05,CUST8200,Customer_216,UAE,Sneakers,Clothing,5.0,1456.06,7280.299999999999,Cash on Delivery
+ORD00189,2024-01-09,CUST6792,Customer_234,UAE,Monitor,Electronics,9.0,492.86,4435.74,PayPal
+ORD00190,2023-09-22,CUST2213,Customer_91,Canada,Toaster,Home & Kitchen,4.0,962.87,3851.48,Cash on Delivery
+ORD00191,2023-07-25,CUST9556,Customer_92,UK,Dumbbells,Sports,3.0,1362.36,4087.08,Cash on Delivery
+ORD00192,2024-02-16,CUST3466,Customer_132,USA,Laptop,Electronics,3.0,1311.02,3933.06,Bank Transfer
+ORD00193,2023-05-06,CUST7837,Customer_184,USA,Football,Sports,10.0,1222.29,12222.9,Bank Transfer
+ORD00194,2023-09-25,CUST7412,Customer_41,India,Blender,Home & Kitchen,2.0,229.8,459.6,Cash on Delivery
+ORD00195,2023-12-13,CUST8151,Customer_7,USA,T-shirt,Clothing,4.0,735.6,2942.4,PayPal
+ORD00196,2023-08-03,CUST9941,Customer_73,Germany,Jeans,Clothing,6.0,211.63,1269.78,Cash on Delivery
+ORD00197,2023-12-30,CUST6585,Customer_130,Germany,Children's Book,Books,7.0,483.16,3382.1200000000003,Bank Transfer
+ORD00198,2023-11-11,CUST5229,Customer_271,UK,Sneakers,Clothing,4.0,324.42,1297.68,Credit Card
+ORD00199,2024-02-01,CUST5569,Customer_272,India,Lamp,Home & Kitchen,1.0,1430.7,1430.7,Bank Transfer
+ORD00200,2023-06-22,CUST8771,Customer_100,India,Children's Book,,9.0,1284.04,11556.36,Credit Card
+ORD00201,2023-12-13,CUST9232,Customer_97,Germany,T-shirt,Clothing,1.0,47.68,47.68,Cash on Delivery
+ORD00202,2023-02-24,CUST2645,Customer_83,Canada,Toaster,Home & Kitchen,6.0,477.18,2863.08,Cash on Delivery
+ORD00203,2023-04-25,CUST3623,Customer_155,UAE,Jeans,Clothing,2.0,918.52,1837.04,Credit Card
+ORD00204,2023-03-06,CUST4341,Customer_283,India,Monitor,Electronics,10.0,84.64,846.4,PayPal
+ORD00205,2024-03-20,CUST6514,Customer_181,UK,Blender,Home & Kitchen,10.0,106.99,1069.8999999999999,Bank Transfer
+ORD00207,2024-05-04,CUST2582,Customer_235,Canada,Children's Book,Books,9.0,667.76,6009.84,Cash on Delivery
+ORD00208,2023-07-27,CUST1747,Customer_102,India,Dumbbells,Sports,7.0,419.36,2935.52,Cash on Delivery
+ORD00209,2023-10-09,CUST8336,Customer_184,India,Headphones,Electronics,1.0,187.23,187.23,Credit Card
+ORD00210,2023-07-29,CUST2109,Customer_184,Germany,Smartphone,Electronics,8.0,708.68,5669.44,PayPal
+ORD00211,2024-06-14,CUST4211,Customer_135,Canada,Science,Books,10.0,874.41,8744.1,Credit Card
+ORD00213,2023-02-21,CUST4135,Customer_299,UK,Sneakers,Clothing,10.0,366.16,3661.6000000000004,PayPal
+ORD00214,2024-05-25,CUST5225,Customer_121,UK,Yoga Mat,Sports,1.0,453.36,453.36,Bank Transfer
+ORD00215,2024-04-12,CUST9118,Customer_181,USA,Yoga Mat,Sports,9.0,155.72,1401.48,Credit Card
+ORD00216,2023-07-09,CUST7415,Customer_109,Germany,Fiction,Books,4.0,1105.86,4423.44,PayPal
+ORD00217,2023-04-11,CUST4288,Customer_249,UAE,T-shirt,Clothing,7.0,415.26,2906.8199999999997,Credit Card
+ORD00218,2023-02-19,CUST1279,Customer_116,UAE,Sneakers,Clothing,9.0,299.25,2693.25,Credit Card
+ORD00219,2023-02-25,CUST4082,Customer_20,India,Monitor,Electronics,8.0,163.76,1310.08,Cash on Delivery
+ORD00220,2023-01-15,CUST4981,Customer_52,Canada,Tennis Racket,Sports,10.0,651.92,6519.2,PayPal
+ORD00221,2024-01-25,CUST5113,Customer_198,USA,Sneakers,Clothing,9.0,264.02,2376.18,Bank Transfer
+ORD00222,2023-03-09,CUST9784,Customer_222,UK,Science,Books,8.0,1395.54,11164.32,Bank Transfer
+ORD00223,2023-08-23,CUST4430,,UK,Headphones,Electronics,9.0,585.15,5266.349999999999,Cash on Delivery
+ORD00224,2023-12-24,CUST7126,Customer_255,Germany,Children's Book,Books,6.0,18.24,109.44,Credit Card
+ORD00226,2024-01-01,CUST6239,Customer_231,India,,Home & Kitchen,10.0,1113.24,11132.4,Credit Card
+ORD00227,2023-11-13,CUST2043,Customer_163,UK,Sneakers,Clothing,2.0,616.39,1232.78,Credit Card
+ORD00228,2023-10-07,CUST5027,Customer_74,UAE,Jacket,Clothing,6.0,185.12,1110.72,Bank Transfer
+ORD00229,2024-03-16,CUST3919,Customer_191,UAE,Headphones,Electronics,4.0,631.86,2527.44,Credit Card
+ORD00230,2023-10-07,CUST7651,Customer_63,Germany,Dumbbells,Sports,6.0,978.2,5869.200000000001,Cash on Delivery
+ORD00231,2024-03-11,CUST2937,Customer_177,India,Jeans,Clothing,7.0,183.15,1282.05,PayPal
+ORD00232,2023-07-09,CUST4464,Customer_11,UAE,Fiction,Books,10.0,354.76,3547.6,Cash on Delivery
+ORD00233,2024-02-12,CUST3682,Customer_53,USA,Science,Books,4.0,239.25,957.0,PayPal
+ORD00234,2023-08-21,CUST5865,Customer_174,USA,Jacket,Clothing,2.0,427.74,855.48,Cash on Delivery
+ORD00235,2023-03-06,CUST9682,Customer_5,India,Football,Sports,7.0,1105.98,7741.860000000001,Credit Card
+ORD00236,2023-05-01,CUST7617,Customer_166,UK,Headphones,Electronics,9.0,760.8,6847.2,PayPal
+ORD00237,2024-06-14,CUST9617,Customer_170,India,Yoga Mat,Sports,10.0,482.99,4829.9,Credit Card
+ORD00238,2023-10-19,CUST3702,Customer_10,Canada,Headphones,Electronics,1.0,475.51,475.51,Credit Card
+ORD00239,2024-04-02,CUST5821,Customer_284,UAE,Sneakers,Clothing,3.0,1269.98,3809.94,Credit Card
+ORD00240,2023-06-29,CUST3820,Customer_106,UAE,Lamp,Home & Kitchen,6.0,1339.02,8034.12,Credit Card
+ORD00241,2023-10-01,CUST5876,Customer_72,UAE,Monitor,Electronics,10.0,264.25,2642.5,Cash on Delivery
+ORD00242,2023-03-09,CUST4231,Customer_101,Canada,Sneakers,Clothing,4.0,543.07,2172.28,Credit Card
+ORD00243,2023-05-21,CUST4960,Customer_118,UAE,Headphones,Electronics,6.0,1150.88,6905.280000000001,Cash on Delivery
+ORD00244,2023-11-02,CUST3020,Customer_272,Canada,Headphones,Electronics,9.0,248.77,2238.9300000000003,Credit Card
+ORD00245,2024-02-23,CUST2936,Customer_262,UK,Fiction,Books,7.0,185.48,1298.36,PayPal
+ORD00246,2023-01-08,CUST3385,Customer_12,USA,Blender,Home & Kitchen,8.0,835.47,6683.76,Credit Card
+ORD00247,2024-01-25,CUST8373,Customer_138,Germany,Dumbbells,Sports,10.0,825.93,8259.3,Cash on Delivery
+ORD00248,2024-06-05,CUST7713,Customer_163,USA,Chair,Home & Kitchen,10.0,497.94,4979.4,PayPal
+ORD00249,2023-07-11,CUST5771,,India,Science,Books,1.0,1173.39,1173.39,PayPal
+ORD00250,2024-03-13,CUST3814,Customer_121,Canada,Jeans,Clothing,2.0,770.2,1540.4,PayPal
+ORD00251,2023-11-28,CUST3144,Customer_233,Germany,Laptop,Electronics,4.0,955.9,3823.6,Bank Transfer
+ORD00252,2023-01-04,CUST3237,Customer_137,UK,Tennis Racket,Sports,2.0,1345.48,2690.96,Bank Transfer
+ORD00253,2023-02-26,CUST6636,Customer_42,USA,Laptop,Electronics,1.0,178.39,178.39,PayPal
+ORD00254,2023-03-06,CUST9921,Customer_120,Germany,Fiction,Books,6.0,157.82,946.92,Bank Transfer
+ORD00255,2024-03-25,CUST9021,Customer_219,Germany,Yoga Mat,Sports,6.0,908.24,5449.4400000000005,Bank Transfer
+ORD00256,2024-01-14,CUST5672,Customer_109,Germany,Toaster,Home & Kitchen,5.0,242.73,1213.6499999999999,Credit Card
+ORD00257,2023-06-10,CUST9006,Customer_70,USA,Toaster,Home & Kitchen,1.0,1210.04,1210.04,Cash on Delivery
+ORD00258,2024-02-03,CUST3255,Customer_14,USA,Blender,Home & Kitchen,1.0,1353.49,1353.49,Credit Card
+ORD00259,2023-11-27,CUST7386,Customer_130,Germany,Dumbbells,Sports,7.0,259.87,1819.0900000000001,Credit Card
+ORD00260,2023-11-09,CUST4848,Customer_181,UAE,Science,Books,8.0,1021.41,8171.28,Cash on Delivery
+ORD00261,2023-06-02,CUST5239,Customer_292,UAE,Jeans,Clothing,8.0,914.34,7314.72,Bank Transfer
+ORD00262,2024-01-22,CUST8954,Customer_185,Canada,Children's Book,Books,10.0,1192.53,11925.3,Credit Card
+ORD00263,2024-02-29,CUST9511,Customer_24,UAE,Lamp,Home & Kitchen,2.0,966.76,1933.52,Credit Card
+ORD00264,2023-11-11,CUST4002,Customer_196,USA,Football,Sports,9.0,784.08,7056.72,Bank Transfer
+ORD00265,2023-09-03,CUST2545,Customer_131,UAE,Tennis Racket,Sports,7.0,731.18,5118.259999999999,PayPal
+ORD00266,2023-01-11,CUST7811,Customer_112,UK,Chair,Home & Kitchen,10.0,660.48,6604.8,Cash on Delivery
+ORD00267,2023-01-26,CUST4498,Customer_53,Canada,Football,Sports,1.0,838.38,838.38,PayPal
+ORD00268,2023-08-08,CUST8689,Customer_268,UK,Monitor,Electronics,10.0,415.33,4153.3,PayPal
+ORD00269,2023-02-24,CUST8941,Customer_25,,Laptop,Electronics,1.0,273.63,273.63,Bank Transfer
+ORD00270,2023-06-08,CUST9318,Customer_35,India,Dumbbells,Sports,4.0,410.2,1640.8,Bank Transfer
+ORD00271,2023-07-21,CUST1181,Customer_14,India,Science,Books,10.0,1499.33,14993.3,Cash on Delivery
+ORD00272,2024-04-18,CUST2104,Customer_223,Germany,T-shirt,Clothing,9.0,934.43,8409.869999999999,Bank Transfer
+ORD00273,2023-05-11,CUST5131,Customer_147,USA,Tennis Racket,Sports,3.0,1300.77,3902.31,Cash on Delivery
+ORD00274,2023-10-28,CUST6420,Customer_268,UAE,Science,Books,1.0,1182.23,1182.23,Cash on Delivery
+ORD00275,2023-01-11,CUST5803,Customer_252,UAE,Headphones,Electronics,4.0,185.42,741.68,Credit Card
+ORD00276,2024-03-12,CUST7989,Customer_250,Canada,Dumbbells,Sports,1.0,588.84,588.84,PayPal
+ORD00277,2023-01-14,CUST5712,Customer_19,UAE,Biography,Books,1.0,929.65,929.65,Cash on Delivery
+ORD00278,2023-11-13,CUST9731,Customer_7,Canada,Yoga Mat,Sports,6.0,227.04,1362.24,PayPal
+ORD00279,2023-08-21,CUST8520,Customer_186,UK,Children's Book,Books,7.0,871.01,6097.07,Bank Transfer
+ORD00280,2024-03-05,CUST3548,Customer_87,UK,Monitor,Electronics,4.0,1154.01,4616.04,PayPal
+ORD00281,2024-06-16,CUST1665,,USA,Jacket,Clothing,4.0,205.6,822.4,PayPal
+ORD00282,2023-01-19,CUST2414,Customer_26,Germany,Lamp,Home & Kitchen,3.0,15.45,46.349999999999994,Bank Transfer
+ORD00283,2023-01-07,CUST2646,Customer_294,UK,Jacket,Clothing,3.0,1399.92,4199.76,PayPal
+ORD00284,2023-04-21,CUST6802,Customer_148,UAE,T-shirt,Clothing,10.0,982.82,9828.2,Bank Transfer
+ORD00285,2024-02-25,CUST5717,,UK,Headphones,Electronics,1.0,1433.31,1433.31,Credit Card
+ORD00286,2023-01-31,CUST6787,Customer_135,UAE,Dumbbells,Sports,9.0,655.7,5901.3,Credit Card
+ORD00287,2024-04-13,CUST8414,Customer_53,UAE,Toaster,Home & Kitchen,1.0,1257.25,1257.25,Cash on Delivery
+ORD00288,2024-04-07,CUST7770,Customer_102,UAE,Chair,Home & Kitchen,5.0,481.56,2407.8,Cash on Delivery
+ORD00289,2023-11-25,CUST2973,Customer_207,USA,Children's Book,Books,10.0,1210.2,12102.0,Cash on Delivery
+ORD00290,2024-06-01,CUST6382,Customer_28,UAE,T-shirt,Clothing,10.0,715.42,7154.2,Credit Card
+ORD00291,2023-11-10,CUST3680,Customer_294,UK,Monitor,Electronics,3.0,342.26,1026.78,Cash on Delivery
+ORD00292,2023-04-23,CUST2816,Customer_40,Germany,Dumbbells,Sports,6.0,582.64,3495.84,Bank Transfer
+ORD00293,2024-01-17,CUST2355,Customer_84,UK,Children's Book,Books,9.0,1156.97,10412.73,Credit Card
+ORD00294,2023-01-25,CUST3667,Customer_8,UAE,Jeans,,2.0,423.14,846.28,PayPal
+ORD00295,2023-01-24,CUST1577,Customer_122,India,Biography,Books,5.0,1131.88,5659.400000000001,Cash on Delivery
+ORD00296,2023-05-14,CUST6014,Customer_145,Germany,Jacket,Clothing,4.0,826.76,3307.04,PayPal
+ORD00297,2024-02-10,CUST3631,,Canada,Biography,Books,9.0,1261.84,11356.56,Credit Card
+ORD00298,2023-01-12,CUST7751,Customer_260,USA,Yoga Mat,Sports,1.0,571.21,571.21,Bank Transfer
+ORD00299,2024-06-21,CUST1792,Customer_64,UAE,T-shirt,Clothing,3.0,1482.05,4446.15,PayPal
+ORD00300,2024-01-10,CUST1622,Customer_59,UK,Headphones,Electronics,2.0,1235.27,2470.54,Credit Card
+ORD00301,2023-02-04,CUST4232,Customer_188,India,Jacket,Clothing,2.0,1021.0,2042.0,Cash on Delivery
+ORD00302,2023-12-15,CUST1728,Customer_240,India,Fiction,Books,3.0,11.62,34.86,PayPal
+ORD00303,2024-03-28,CUST2245,Customer_18,UK,Sneakers,Clothing,4.0,130.95,523.8,Cash on Delivery
+ORD00304,2024-04-19,CUST1077,Customer_74,Germany,Football,Sports,6.0,109.07,654.42,Credit Card
+ORD00305,2023-12-15,CUST3706,Customer_16,India,Headphones,Electronics,9.0,684.22,6157.9800000000005,Bank Transfer
+ORD00306,2024-04-23,CUST6915,Customer_181,USA,,Electronics,4.0,779.13,3116.52,Bank Transfer
+ORD00307,2024-01-09,CUST7108,Customer_273,Germany,Toaster,Home & Kitchen,9.0,71.21,640.89,Cash on Delivery
+ORD00308,2023-03-31,CUST9403,Customer_8,Canada,Monitor,Electronics,6.0,470.63,2823.7799999999997,PayPal
+ORD00309,2023-10-07,CUST6114,Customer_5,UAE,Lamp,Home & Kitchen,8.0,1088.4,8707.2,Credit Card
+ORD00310,2023-10-15,CUST5698,Customer_229,Canada,Jacket,Clothing,3.0,731.14,2193.42,Cash on Delivery
+ORD00311,2023-07-04,CUST8260,Customer_241,Canada,Blender,Home & Kitchen,8.0,1296.95,10375.6,Cash on Delivery
+ORD00312,2024-04-22,CUST8681,Customer_79,UAE,Blender,Home & Kitchen,1.0,882.89,882.89,PayPal
+ORD00313,2024-02-14,CUST3667,Customer_221,UK,Blender,Home & Kitchen,8.0,297.41,2379.28,Credit Card
+ORD00314,2023-04-09,CUST1712,Customer_56,UK,Blender,Home & Kitchen,1.0,1158.7,1158.7,Cash on Delivery
+ORD00315,2023-07-30,CUST7531,Customer_278,UK,Blender,Home & Kitchen,10.0,319.0,3190.0,Bank Transfer
+ORD00316,2024-04-04,CUST5708,Customer_4,Canada,Monitor,Electronics,2.0,570.6,1141.2,Credit Card
+ORD00317,2023-02-26,CUST9535,Customer_295,UK,Monitor,Electronics,5.0,287.4,1437.0,Cash on Delivery
+ORD00318,2023-08-06,CUST2518,Customer_151,USA,Dumbbells,Sports,8.0,886.83,7094.64,Credit Card
+ORD00319,2023-06-16,CUST6410,Customer_199,Canada,Jeans,Clothing,1.0,98.58,98.58,Credit Card
+ORD00320,2023-07-03,CUST7077,Customer_208,Canada,Chair,Home & Kitchen,5.0,785.04,3925.2,PayPal
+ORD00322,2023-06-02,CUST2896,Customer_117,UK,Laptop,Electronics,2.0,154.52,309.04,Bank Transfer
+ORD00323,2024-03-21,CUST2734,Customer_220,Canada,T-shirt,Clothing,4.0,1457.55,5830.2,Cash on Delivery
+ORD00324,2024-03-30,CUST2027,Customer_176,UAE,Football,Sports,8.0,1466.24,11729.92,Bank Transfer
+ORD00325,2023-09-08,CUST8520,Customer_196,Germany,Science,Books,6.0,1213.12,7278.719999999999,Bank Transfer
+ORD00326,2024-03-18,CUST5570,Customer_261,India,Blender,Home & Kitchen,7.0,73.24,512.68,Cash on Delivery
+ORD00327,2023-03-05,CUST1995,Customer_85,UK,Children's Book,Books,1.0,223.47,223.47,Credit Card
+ORD00328,2024-05-09,CUST9778,Customer_7,Germany,Headphones,Electronics,6.0,1039.66,6237.960000000001,Bank Transfer
+ORD00329,2024-01-14,CUST5235,,Germany,Jacket,Clothing,6.0,216.88,1301.28,PayPal
+ORD00330,2023-07-23,CUST9927,Customer_74,UAE,Headphones,Electronics,2.0,196.79,393.58,Credit Card
+ORD00331,2024-05-07,CUST1155,Customer_205,UAE,,Home & Kitchen,9.0,851.35,7662.150000000001,Cash on Delivery
+ORD00332,2024-01-28,CUST7979,Customer_252,UAE,Football,Sports,2.0,739.97,1479.94,PayPal
+ORD00333,2024-06-14,CUST7338,Customer_171,UK,Dumbbells,Sports,7.0,1089.32,7625.24,Bank Transfer
+ORD00334,2023-07-01,CUST4433,Customer_66,UK,Laptop,Electronics,7.0,1150.82,8055.74,Cash on Delivery
+ORD00335,2024-03-30,CUST1197,Customer_51,India,Sneakers,Clothing,8.0,1225.71,9805.68,PayPal
+ORD00336,2023-05-21,CUST3237,Customer_278,Germany,Smartphone,Electronics,2.0,545.84,1091.68,Credit Card
+ORD00337,2024-01-27,CUST4810,Customer_251,Germany,Blender,Home & Kitchen,5.0,502.19,2510.95,PayPal
+ORD00338,2024-02-28,CUST1981,Customer_175,UK,Tennis Racket,Sports,8.0,922.02,7376.16,PayPal
+ORD00339,2023-10-21,CUST1539,Customer_51,Canada,Toaster,Home & Kitchen,2.0,1110.46,2220.92,PayPal
+ORD00340,2023-08-09,CUST1376,Customer_239,UAE,Laptop,Electronics,2.0,1446.4,2892.8,PayPal
+ORD00341,2023-08-19,CUST8673,Customer_69,Canada,Football,Sports,2.0,892.92,1785.84,Bank Transfer
+ORD00342,2024-01-18,CUST3416,Customer_184,UAE,Headphones,Electronics,9.0,606.44,5457.960000000001,PayPal
+ORD00343,2024-03-28,CUST8881,Customer_60,UAE,Chair,,4.0,312.49,1249.96,Credit Card
+ORD00344,2023-09-05,CUST4831,Customer_167,Germany,Jeans,Clothing,10.0,1422.49,14224.9,Bank Transfer
+ORD00345,2023-05-12,CUST7375,Customer_255,UAE,Smartphone,Electronics,2.0,1248.53,2497.06,Credit Card
+ORD00346,2024-05-13,CUST4773,Customer_70,UK,Biography,Books,6.0,244.7,1468.1999999999998,Bank Transfer
+ORD00347,2023-03-18,CUST1485,Customer_247,UK,Science,Books,5.0,309.63,1548.15,PayPal
+ORD00348,2023-11-12,CUST8387,Customer_77,USA,Sneakers,Clothing,6.0,1158.56,6951.36,PayPal
+ORD00349,2023-03-25,CUST5215,Customer_88,USA,,Books,3.0,468.57,1405.71,Bank Transfer
+ORD00350,2024-06-20,CUST8684,Customer_35,Germany,Jeans,Clothing,6.0,1206.38,7238.280000000001,Bank Transfer
+ORD00351,2024-06-01,CUST2159,Customer_277,UK,Biography,Books,10.0,1346.84,13468.4,Cash on Delivery
+ORD00352,2024-06-09,CUST7512,Customer_226,UK,Sneakers,Clothing,1.0,340.92,340.92,PayPal
+ORD00353,2023-02-03,CUST8460,Customer_120,Canada,Smartphone,Electronics,8.0,1388.84,11110.72,PayPal
+ORD00354,2024-02-09,CUST7873,Customer_53,Germany,Toaster,Home & Kitchen,10.0,664.82,6648.200000000001,Credit Card
+ORD00355,2024-02-17,CUST1292,Customer_16,,Biography,Books,1.0,1156.57,1156.57,PayPal
+ORD00356,2024-03-20,CUST7619,Customer_241,India,,Electronics,3.0,39.39,118.17,Bank Transfer
+ORD00357,2023-08-30,CUST2078,Customer_91,UK,Biography,Books,5.0,978.74,4893.7,Cash on Delivery
+ORD00358,2023-12-04,CUST7733,Customer_97,Germany,Dumbbells,Sports,9.0,149.37,1344.33,Credit Card
+ORD00359,2024-02-23,CUST4122,Customer_230,UAE,Dumbbells,Sports,7.0,117.88,825.16,PayPal
+ORD00360,2023-12-28,CUST1479,Customer_4,UK,Children's Book,Books,1.0,1322.6,1322.6,Credit Card
+ORD00361,2023-02-14,CUST5383,Customer_286,USA,Monitor,Electronics,9.0,1125.94,10133.460000000001,Credit Card
+ORD00362,2023-12-31,CUST7862,Customer_271,India,Monitor,Electronics,4.0,150.56,602.24,Bank Transfer
+ORD00365,2023-07-04,CUST5351,Customer_279,Germany,Sneakers,Clothing,9.0,482.52,4342.68,Cash on Delivery
+ORD00366,2023-11-21,CUST6724,Customer_190,USA,Biography,Books,2.0,903.2,1806.4,Cash on Delivery
+ORD00367,2024-04-17,CUST4524,Customer_277,USA,Science,Books,9.0,1127.36,10146.24,Credit Card
+ORD00368,2023-08-08,CUST8752,Customer_213,UAE,Science,Books,1.0,882.47,882.47,Bank Transfer
+ORD00369,2023-03-24,CUST5939,Customer_199,UAE,Jacket,Clothing,5.0,144.55,722.75,Credit Card
+ORD00370,2024-04-10,CUST1039,Customer_229,Germany,Chair,Home & Kitchen,4.0,424.9,1699.6,Cash on Delivery
+ORD00371,2023-10-07,CUST9027,Customer_267,India,Sneakers,Clothing,9.0,628.83,5659.47,Credit Card
+ORD00372,2024-03-14,CUST1605,Customer_45,Germany,Children's Book,Books,5.0,1084.93,5424.650000000001,Bank Transfer
+ORD00373,2024-02-22,CUST2330,Customer_133,USA,Jacket,Clothing,7.0,998.97,6992.79,Cash on Delivery
+ORD00374,2023-12-24,CUST9290,Customer_256,UK,Sneakers,Clothing,1.0,1218.38,1218.38,Bank Transfer
+ORD00375,2023-05-26,CUST6003,Customer_96,UAE,Chair,Home & Kitchen,2.0,1108.83,2217.66,PayPal
+ORD00376,2023-05-28,CUST9618,Customer_210,Canada,Monitor,Electronics,2.0,529.44,1058.88,Cash on Delivery
+ORD00377,2023-10-17,CUST4158,Customer_222,UK,T-shirt,Clothing,5.0,1188.76,5943.8,PayPal
+ORD00378,2023-11-06,CUST6907,Customer_287,Germany,Children's Book,Books,1.0,1020.46,1020.46,Cash on Delivery
+ORD00379,2023-11-15,CUST7279,Customer_40,Germany,Monitor,Electronics,2.0,228.1,456.2,Credit Card
+ORD00380,2024-01-11,CUST6512,Customer_244,UAE,Monitor,Electronics,6.0,969.81,5818.86,Bank Transfer
+ORD00382,2024-05-18,CUST2404,Customer_22,USA,Chair,,1.0,868.71,868.71,Credit Card
+ORD00383,2023-12-21,CUST6985,Customer_274,USA,Jacket,Clothing,7.0,689.92,4829.44,PayPal
+ORD00384,2023-02-01,CUST2308,Customer_147,India,Children's Book,Books,2.0,397.82,795.64,Credit Card
+ORD00385,2024-03-12,CUST8402,Customer_121,USA,Dumbbells,Sports,8.0,979.04,7832.32,PayPal
+ORD00386,2023-09-05,CUST4695,Customer_27,Canada,Monitor,Electronics,1.0,179.1,179.1,PayPal
+ORD00387,2023-09-13,CUST7854,Customer_2,Canada,Headphones,Electronics,10.0,1442.84,14428.4,PayPal
+ORD00388,2023-03-05,CUST1713,Customer_267,UAE,Yoga Mat,Sports,6.0,1156.89,6941.34,Cash on Delivery
+ORD00389,2023-02-05,CUST7775,,UAE,Yoga Mat,Sports,6.0,246.39,1478.34,Credit Card
+ORD00391,2024-05-24,CUST3496,Customer_117,Germany,T-shirt,Clothing,6.0,478.62,2871.7200000000003,Cash on Delivery
+ORD00392,2024-02-06,CUST4916,Customer_291,UK,Smartphone,Electronics,1.0,1346.46,1346.46,PayPal
+ORD00393,2023-06-17,CUST3064,Customer_80,India,Lamp,Home & Kitchen,3.0,503.36,1510.08,Cash on Delivery
+ORD00394,2023-03-01,CUST8540,Customer_129,USA,Smartphone,Electronics,3.0,665.7,1997.1000000000001,Credit Card
+ORD00395,2024-01-26,CUST2463,Customer_5,Germany,Headphones,Electronics,10.0,309.57,3095.7,Cash on Delivery
+ORD00396,2023-06-28,CUST5232,Customer_267,India,Jacket,Clothing,6.0,628.89,3773.34,Cash on Delivery
+ORD00397,2023-07-14,CUST9536,Customer_157,UAE,Children's Book,Books,9.0,590.91,5318.19,Cash on Delivery
+ORD00398,2023-11-28,CUST2600,Customer_255,USA,Children's Book,Books,8.0,1228.86,9830.88,Cash on Delivery
+ORD00399,2023-04-13,CUST2309,Customer_172,UK,Dumbbells,Sports,1.0,351.9,351.9,PayPal
+ORD00400,2023-02-15,CUST6282,Customer_294,Germany,T-shirt,Clothing,8.0,958.23,7665.84,Credit Card
+ORD00401,2023-04-16,CUST2415,Customer_100,USA,Yoga Mat,Sports,1.0,906.42,906.42,PayPal
+ORD00402,2023-06-18,CUST8774,Customer_2,Germany,Headphones,Electronics,1.0,380.5,380.5,PayPal
+ORD00403,2023-01-12,CUST3009,Customer_57,UK,Sneakers,Clothing,5.0,628.79,3143.95,Bank Transfer
+ORD00404,2023-04-11,CUST9782,Customer_150,USA,Children's Book,Books,7.0,1311.51,9180.57,Credit Card
+ORD00405,2023-01-25,CUST6455,Customer_109,UAE,Children's Book,Books,1.0,639.33,639.33,Cash on Delivery
+ORD00406,2023-07-26,CUST1758,Customer_231,USA,Fiction,Books,1.0,995.47,995.47,Cash on Delivery
+ORD00408,2023-05-23,CUST5397,Customer_185,USA,Smartphone,Electronics,2.0,519.59,1039.18,Credit Card
+ORD00410,2023-08-24,CUST7802,Customer_83,UK,Biography,Books,10.0,1090.6,10906.0,Cash on Delivery
+ORD00411,2024-01-23,CUST3856,Customer_258,India,Headphones,Electronics,9.0,441.81,3976.29,Bank Transfer
+ORD00412,2023-01-19,CUST2885,Customer_106,India,Blender,Home & Kitchen,9.0,765.43,6888.87,Bank Transfer
+ORD00414,2023-10-04,CUST1987,Customer_232,India,Jacket,Clothing,10.0,479.39,4793.9,Cash on Delivery
+ORD00415,2023-12-08,CUST7621,Customer_119,India,Biography,Books,9.0,114.57,1031.1299999999999,Credit Card
+ORD00416,2023-02-14,CUST4805,Customer_211,UAE,Dumbbells,Sports,4.0,839.21,3356.84,Cash on Delivery
+ORD00417,2024-06-08,CUST2679,Customer_15,UK,Jacket,Clothing,9.0,1434.59,12911.31,Bank Transfer
+ORD00418,2023-08-03,CUST3347,Customer_76,India,Smartphone,Electronics,8.0,1150.34,9202.72,Bank Transfer
+ORD00419,2023-04-11,CUST5688,Customer_188,UAE,Children's Book,Books,7.0,248.58,1740.0600000000002,Cash on Delivery
+ORD00420,2023-02-08,CUST6443,Customer_238,Canada,Smartphone,Electronics,3.0,593.98,1781.94,Bank Transfer
+ORD00421,2024-03-01,CUST2445,Customer_125,UAE,,,1.0,68.42,68.42,Bank Transfer
+ORD00422,2023-02-15,CUST2971,Customer_60,India,Lamp,Home & Kitchen,9.0,220.14,1981.2599999999998,Bank Transfer
+ORD00423,2023-11-24,CUST2090,Customer_169,UAE,Jacket,Clothing,6.0,1274.77,7648.62,Bank Transfer
+ORD00424,2023-10-11,CUST7693,Customer_228,Germany,Dumbbells,Sports,4.0,1129.67,4518.68,PayPal
+ORD00425,2023-02-24,CUST8162,Customer_104,Germany,T-shirt,Clothing,1.0,689.54,689.54,Cash on Delivery
+ORD00426,2024-02-21,CUST6083,Customer_95,UK,Smartphone,Electronics,9.0,877.03,7893.2699999999995,Credit Card
+ORD00427,2024-04-22,CUST1450,Customer_21,UK,Yoga Mat,Sports,3.0,588.5,1765.5,PayPal
+ORD00428,2023-03-01,CUST8791,Customer_285,Germany,Fiction,Books,7.0,1454.48,10181.36,PayPal
+ORD00429,2023-08-11,CUST9075,Customer_214,UAE,Science,Books,10.0,521.96,5219.6,PayPal
+ORD00430,2023-04-21,CUST7744,Customer_86,Germany,Football,Sports,1.0,910.97,910.97,Cash on Delivery
+ORD00431,2023-07-12,CUST3220,Customer_76,,Yoga Mat,Sports,9.0,660.86,5947.74,Credit Card
+ORD00432,2023-02-25,CUST8876,Customer_145,India,Fiction,Books,2.0,39.67,79.34,Bank Transfer
+ORD00433,2023-01-12,CUST4601,Customer_221,India,Fiction,Books,1.0,275.39,275.39,Credit Card
+ORD00434,2024-05-18,CUST1036,Customer_113,UK,Biography,Books,4.0,1055.77,4223.08,Cash on Delivery
+ORD00435,2023-02-02,CUST7140,Customer_98,USA,Football,Sports,5.0,566.83,2834.15,Bank Transfer
+ORD00436,2023-07-28,CUST2595,Customer_114,USA,T-shirt,Clothing,4.0,1159.83,4639.32,Cash on Delivery
+ORD00437,2024-03-02,CUST6765,Customer_139,Germany,T-shirt,Clothing,8.0,732.47,5859.76,PayPal
+ORD00438,2023-04-10,CUST4475,Customer_27,India,Fiction,Books,3.0,1338.16,4014.4800000000005,Credit Card
+ORD00439,2023-05-11,CUST9775,Customer_82,UAE,Football,Sports,9.0,1061.71,9555.39,Bank Transfer
+ORD00440,2024-05-20,CUST4458,Customer_150,Canada,Football,Sports,3.0,1160.58,3481.74,Cash on Delivery
+ORD00441,2023-08-20,CUST4364,Customer_277,UK,Blender,Home & Kitchen,5.0,1261.78,6308.9,PayPal
+ORD00442,2023-10-15,CUST4539,Customer_274,UK,Tennis Racket,Sports,8.0,1234.18,9873.44,PayPal
+ORD00443,2024-01-17,CUST1618,Customer_29,UK,Monitor,Electronics,2.0,799.74,1599.48,PayPal
+ORD00444,2023-11-21,CUST2820,Customer_162,UK,Sneakers,Clothing,1.0,1361.63,1361.63,Cash on Delivery
+ORD00445,2023-12-02,CUST9220,Customer_153,UAE,Smartphone,Electronics,3.0,1211.47,3634.41,PayPal
+ORD00446,2024-01-07,CUST8766,Customer_123,UK,Jeans,Clothing,3.0,1267.36,3802.08,Bank Transfer
+ORD00447,2023-03-01,CUST3269,Customer_165,UK,Yoga Mat,Sports,7.0,374.42,2620.94,Credit Card
+ORD00448,2023-09-17,CUST7565,Customer_166,USA,Children's Book,Books,8.0,616.05,4928.4,PayPal
+ORD00449,2023-04-10,CUST7770,Customer_248,UK,Science,Books,7.0,18.38,128.66,Bank Transfer
+ORD00450,2024-04-17,CUST1583,Customer_121,UAE,Fiction,Books,7.0,1292.39,9046.730000000001,PayPal
+ORD00451,2023-06-09,CUST1854,Customer_157,USA,,Clothing,2.0,794.9,1589.8,PayPal
+ORD00452,2023-08-24,CUST3209,Customer_171,,Headphones,Electronics,5.0,127.98,639.9,PayPal
+ORD00453,2023-06-16,CUST9810,Customer_189,UK,Toaster,Home & Kitchen,9.0,303.44,2730.96,PayPal
+ORD00454,2024-05-31,CUST1519,Customer_137,UAE,Toaster,Home & Kitchen,6.0,1383.29,8299.74,Credit Card
+ORD00455,2023-03-01,CUST5903,Customer_250,Canada,Football,Sports,1.0,195.1,195.1,Bank Transfer
+ORD00456,2023-07-29,CUST4485,Customer_8,India,Monitor,Electronics,1.0,1100.73,1100.73,Cash on Delivery
+ORD00457,2023-11-05,CUST9855,Customer_225,India,Dumbbells,Sports,5.0,1330.78,6653.9,PayPal
+ORD00458,2023-12-04,CUST7702,Customer_249,USA,Toaster,Home & Kitchen,1.0,1212.86,1212.86,Credit Card
+ORD00459,2023-03-19,CUST9374,Customer_91,UAE,Dumbbells,Sports,2.0,104.84,209.68,Cash on Delivery
+ORD00460,2023-07-14,CUST2727,Customer_225,UK,Monitor,Electronics,3.0,1357.64,4072.92,Credit Card
+ORD00464,2023-05-03,CUST7274,Customer_259,UK,Headphones,Electronics,4.0,794.43,3177.72,Bank Transfer
+ORD00465,2024-05-28,CUST2608,Customer_126,Germany,Children's Book,Books,5.0,1002.34,5011.7,Credit Card
+ORD00466,2024-03-30,CUST3859,Customer_234,UK,Science,Books,8.0,565.6,4524.8,PayPal
+ORD00467,2023-01-12,CUST9201,Customer_254,UK,Science,Books,1.0,268.87,268.87,PayPal
+ORD00468,2024-03-08,CUST8088,Customer_82,USA,Chair,Home & Kitchen,9.0,1257.26,11315.34,Bank Transfer
+ORD00469,2024-02-06,CUST8565,Customer_220,UK,Fiction,Books,9.0,1415.22,12736.98,PayPal
+ORD00470,2023-04-07,CUST3059,Customer_41,India,Blender,Home & Kitchen,1.0,666.84,666.84,Credit Card
+ORD00471,2024-05-22,CUST6238,Customer_229,Germany,Chair,Home & Kitchen,10.0,169.61,1696.1000000000001,PayPal
+ORD00472,2024-04-28,CUST9184,Customer_49,UAE,Dumbbells,Sports,3.0,920.34,2761.02,PayPal
+ORD00473,2024-03-16,CUST7954,Customer_86,UK,Sneakers,Clothing,1.0,1291.42,1291.42,Bank Transfer
+ORD00474,2024-02-21,CUST3234,Customer_9,USA,Smartphone,Electronics,4.0,1199.33,4797.32,Cash on Delivery
+ORD00475,2023-06-22,CUST5643,Customer_167,Germany,Science,Books,1.0,1034.35,1034.35,PayPal
+ORD00476,2024-01-02,CUST2117,Customer_227,Germany,Tennis Racket,Sports,7.0,500.39,3502.73,PayPal
+ORD00477,2023-11-15,CUST1040,Customer_80,India,Science,Books,4.0,769.32,3077.28,PayPal
+ORD00478,2023-05-29,CUST2956,Customer_282,USA,Chair,Home & Kitchen,7.0,709.47,4966.29,Credit Card
+ORD00479,2023-01-21,CUST4422,Customer_116,Canada,Monitor,Electronics,7.0,1485.7,10399.9,Bank Transfer
+ORD00480,2023-01-14,CUST2941,Customer_106,Canada,Dumbbells,Sports,9.0,1016.67,9150.029999999999,Cash on Delivery
+ORD00481,2024-05-07,CUST8555,Customer_28,Germany,Blender,Home & Kitchen,2.0,1380.66,2761.32,PayPal
+ORD00482,2023-11-13,CUST8229,Customer_63,UAE,Monitor,Electronics,6.0,1494.02,8964.119999999999,Cash on Delivery
+ORD00483,2023-01-27,CUST6542,Customer_88,Canada,Blender,Home & Kitchen,6.0,29.76,178.56,PayPal
+ORD00484,2023-01-09,CUST8414,Customer_93,Germany,Headphones,Electronics,5.0,609.42,3047.1,Credit Card
+ORD00485,2024-04-16,CUST1302,Customer_167,USA,Laptop,Electronics,3.0,1421.26,4263.78,Cash on Delivery
+ORD00486,2023-02-24,CUST3090,Customer_32,Canada,Tennis Racket,Sports,5.0,685.45,3427.25,Cash on Delivery
+ORD00487,2023-06-17,CUST8878,Customer_207,Germany,Toaster,Home & Kitchen,3.0,96.65,289.95000000000005,Bank Transfer
+ORD00488,2023-05-06,CUST9881,Customer_160,Germany,Jeans,Clothing,3.0,1325.54,3976.62,Bank Transfer
+ORD00489,2023-12-31,CUST7686,Customer_37,Germany,Tennis Racket,Sports,8.0,376.35,3010.8,Cash on Delivery
+ORD00490,2023-07-21,CUST9559,Customer_94,UAE,Biography,Books,7.0,239.49,1676.43,Cash on Delivery
+ORD00492,2024-01-21,CUST9701,Customer_121,,Jeans,Clothing,1.0,1382.48,1382.48,PayPal
+ORD00493,2023-02-19,CUST4246,Customer_210,Germany,Smartphone,Electronics,7.0,1096.42,7674.9400000000005,PayPal
+ORD00494,2023-12-14,CUST3280,Customer_15,Germany,T-shirt,Clothing,7.0,447.99,3135.9300000000003,Cash on Delivery
+ORD00495,2024-06-14,CUST1439,Customer_217,India,Yoga Mat,Sports,10.0,137.87,1378.7,PayPal
+ORD00496,2023-07-18,CUST9030,Customer_235,Canada,Jacket,Clothing,3.0,780.38,2341.14,Credit Card
+ORD00497,2023-08-29,CUST7566,Customer_8,UK,Tennis Racket,Sports,10.0,256.29,2562.9,Bank Transfer
+ORD00498,2024-03-19,CUST4448,Customer_216,USA,T-shirt,Clothing,8.0,558.29,4466.32,Credit Card
+ORD00499,2024-04-11,CUST9658,Customer_41,Germany,Monitor,Electronics,3.0,66.16,198.48,Cash on Delivery
+ORD00500,2024-06-01,CUST6639,Customer_298,India,Jeans,Clothing,8.0,1010.32,8082.56,Bank Transfer
+ORD00294,2023-01-25,CUST3667,Customer_8,UAE,Jeans,,2.0,423.14,846.28,PayPal
+ORD00169,2023-04-04,CUST7786,Customer_47,Germany,Jeans,Clothing,9.0,138.07,1242.6299999999999,Bank Transfer
+ORD00345,2023-05-12,CUST7375,Customer_255,UAE,Smartphone,Electronics,2.0,1248.53,2497.06,Credit Card
+ORD00481,2024-05-07,CUST8555,Customer_28,Germany,Blender,Home & Kitchen,2.0,1380.66,2761.32,PayPal
+ORD00496,2023-07-18,CUST9030,Customer_235,Canada,Jacket,Clothing,3.0,780.38,2341.14,Credit Card
+ORD00008,2023-11-20,CUST1977,Customer_235,UK,T-shirt,Clothing,3.0,977.73,2933.19,Bank Transfer
+ORD00376,2023-05-28,CUST9618,Customer_210,Canada,Monitor,Electronics,2.0,529.44,1058.88,Cash on Delivery
+ORD00101,2024-05-25,CUST3614,Customer_117,USA,Football,Sports,9.0,1489.6,13406.4,Bank Transfer
